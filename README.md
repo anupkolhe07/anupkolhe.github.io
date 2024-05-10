@@ -29,7 +29,7 @@
 - Implemented a CNN architecture with L2 regularization and data augmentation techniques to enhance model performance.
 - Employed Early Stopping callback to prevent overfitting during training.
 - Achieved a training accuracy of 97.96% and validation accuracy of 97.86%.
-![Image](assests/Traffic_sign_recognition)
+![Image](assests/Traffic.jpg)
 
 ## Contact
 
