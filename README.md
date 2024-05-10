@@ -16,13 +16,12 @@
 - Compared to various ML models, XGBoost outperformed others with a Recall of 0.94 and F1 scores of 0.92 for both training and testing.
 ![Image](assests/Bank)
 
-
-
 ### Consignment Price Predictions
 
 - Developed a forecast consignment pricing model incorporating Vendor INCO Terms, Shipment Mode, Insurance, and product characteristics.
 - Implemented robust data preprocessing techniques including missing data handling, log transformations, and outlier treatment.
 - Achieved high predictive accuracy using Random Forest Regressor with R-square values of 0.97 on training and 0.96 on testing data, along with an RMSE score of 0.4 on both sets.
+![Image](assests/Cosnigmet_Price)
 
 ### Traffic Signs Recognition
 
@@ -30,6 +29,7 @@
 - Implemented a CNN architecture with L2 regularization and data augmentation techniques to enhance model performance.
 - Employed Early Stopping callback to prevent overfitting during training.
 - Achieved a training accuracy of 97.96% and validation accuracy of 97.86%.
+![Image](assests/Traffic_sign_recognition)
 
 ## Contact
 
