@@ -21,7 +21,7 @@
 - Developed a forecast consignment pricing model incorporating Vendor INCO Terms, Shipment Mode, Insurance, and product characteristics.
 - Implemented robust data preprocessing techniques including missing data handling, log transformations, and outlier treatment.
 - Achieved high predictive accuracy using Random Forest Regressor with R-square values of 0.97 on training and 0.96 on testing data, along with an RMSE score of 0.4 on both sets.
-![Image](assests/Cosnigmet_Price)
+![Image](assests/Cosnignmet_Price)
 
 ### Traffic Signs Recognition
 
