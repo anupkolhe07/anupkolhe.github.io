@@ -14,7 +14,8 @@
 - Developed a fraud detection model utilizing transaction details, device information, and user characteristics.
 - Overcame data imbalance using SMOTEEN, managed high categorical feature count through target mean encoding, and prevented overfitting via hyperparameter tuning.
 - Compared to various ML models, XGBoost outperformed others with a Recall of 0.94 and F1 scores of 0.92 for both training and testing.
-- ![Image](assests/Bank Image.jpg)
+![Image](assests/Bank_Image.jpg)
+
 
 
 ### Consignment Price Predictions
